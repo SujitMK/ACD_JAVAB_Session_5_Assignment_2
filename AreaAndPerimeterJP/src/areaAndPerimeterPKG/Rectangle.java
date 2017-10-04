@@ -1,6 +1,6 @@
-package areaAndPerimeterPKG;
+package areaAndPerimeterPKG;          // declared a package
 
-public class Rectangle extends Figure{
+public class Rectangle extends Figure{         // declared and defened a class that extends a super class
 
 	//  Declaring width and height variables of double type
 	double rWidth;         
