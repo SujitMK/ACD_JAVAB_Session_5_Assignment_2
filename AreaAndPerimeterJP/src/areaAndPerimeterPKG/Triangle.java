@@ -1,6 +1,6 @@
-package areaAndPerimeterPKG;
+package areaAndPerimeterPKG;       // Declared package
 
-public class Triangle extends Figure{
+public class Triangle extends Figure{              // declared and defened a class that extends a super class
 	
     //  Declaring width,height and 3rd side of a Triangle variables of double type
 	double tBase;         
