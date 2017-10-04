@@ -1,6 +1,6 @@
-package areaAndPerimeterPKG;
+package areaAndPerimeterPKG;      // declared a package
 
-public abstract class Figure {
+public abstract class Figure {    // declared and defened a class 
 	
 	double circleDiameter;        //Declared a diameter variable of double type 
 	double rectangleHeight;       //Declared a Rectangle Height variable of double type
