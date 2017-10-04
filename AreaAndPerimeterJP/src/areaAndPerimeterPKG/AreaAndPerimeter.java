@@ -1,8 +1,8 @@
-package areaAndPerimeterPKG;
+package areaAndPerimeterPKG;                // Declared package
 
-import java.util.Scanner;
+import java.util.Scanner;             // using scanner utility
 
-public class AreaAndPerimeter {
+public class AreaAndPerimeter {          // declared and defined class
 
 	public static void main(String[] args) {          // Main method
 
@@ -40,7 +40,7 @@ public class AreaAndPerimeter {
 		t.findArea();                                // Calling a findArea method 
 		t.findPerimeter();                            // Calling a findPerimeter method 
 
-		input.close();
+		input.close();        // closed scanner
 	}
 
 }
