@@ -1,10 +1,10 @@
-package areaAndPerimeterPKG;
+package areaAndPerimeterPKG;       // declared a package
 
-public class Circle extends Figure{
+public class Circle extends Figure{               // declared and defened a class that extends a super class
 	
 	double pi = Math.PI;               // Getting a PI value from a Math Function
-	double circleDiameter;
-	double circleRadius;
+	double circleDiameter;                   // declared a variable of a double type
+	double circleRadius;                       // declared a variable of a double type
 	
 	// Using parameterized constructor for assigning the user diameter value to the Super class diameter variable
 	
